@@ -1,0 +1,6 @@
+id,name,heart_rate,prev_heart_rate,spo2,skin_temp_c,altitude_m
+1,Alpha,120,90,68,-15,5100
+2,Bravo,85,88,95,-5,4500
+3,Charlie,70,105,55,-18,5200
+4,Delta,110,112,88,-8,4800
+5,Gamma,65,90,72,-20,5300
