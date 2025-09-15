@@ -1,0 +1,4 @@
+time,event,action
+12:01,Drone Bravo jammed,Switched to offline mode
+12:05,Unauthorized login,Blocked
+12:10,Sensor Alpha spoof detected,Data ignored
